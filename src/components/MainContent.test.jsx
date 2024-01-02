@@ -7,6 +7,7 @@ import MainContent from './MainContent';
 // My test
 //Another test hehhehe
 //another comment
+/// another one and another oneg
 
 describe('MainContent', () => {
   it('should render a button', () => {
